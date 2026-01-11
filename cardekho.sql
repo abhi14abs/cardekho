@@ -109,7 +109,7 @@ CREATE TABLE `website_content` (
 
 insert  into `website_content`(`id`,`section`,`title`,`content`,`image_url`,`link_url`,`display_order`,`is_active`,`created_at`,`updated_at`) values 
 (1,'banner','Find Your Perfect Car','Browse through thousands of new and used cars with the best deals','uploads/content/1768063400_Cars-Full-HD-Free-Download-Wallpapers.jpg','',0,1,'2026-01-10 20:13:38','2026-01-10 22:13:20'),
-(2,'header',NULL,'Call us: +91 98765 43210',NULL,NULL,0,1,'2026-01-10 20:13:38','2026-01-10 20:13:38'),
+(2,'header',NULL,'Call us: +91 88877 45734',NULL,NULL,0,1,'2026-01-10 20:13:38','2026-01-10 20:13:38'),
 (3,'header',NULL,'support@cardekho.com',NULL,NULL,0,1,'2026-01-10 20:13:38','2026-01-10 20:13:38');
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
